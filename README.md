@@ -9,4 +9,4 @@ I have implemented the school:
 4. To operate for N hours
 5. To print the school building
 
-Inheritance, Virtual Functions and Abstract Classes have been used.
+Inheritance, Virtual Functions and Abstract Classes have been used. 
